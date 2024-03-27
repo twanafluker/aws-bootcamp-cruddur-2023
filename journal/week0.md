@@ -16,3 +16,7 @@ I installed the AWS CLI for Windows 10 via command in **Command Prompt**:
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
 
+I was able to set my AWS CLI credentials using the command 
+```
+aws configure
+```
