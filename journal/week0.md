@@ -24,3 +24,4 @@ aws configure
 
 ### Logical Architecture
 
+![Crudder Logical Design](assets/crudder-logical-diagram.png)
