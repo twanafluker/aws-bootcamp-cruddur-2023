@@ -25,3 +25,5 @@ aws configure
 ### Logical Architecture
 
 ![Crudder Logical Design](assets/crudder-logical-diagram.png)
+
+[Lucid Charts Share Link](https://lucid.app/lucidchart/f1406570-534f-4d2a-bb5d-ca51167b40e0/edit?viewport_loc=-216%2C-182%2C2209%2C2083%2C0_0&invitationId=inv_c4d0f47d-345d-4f02-a635-783d95dbfbdb)
