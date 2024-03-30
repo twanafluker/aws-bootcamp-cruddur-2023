@@ -20,3 +20,7 @@ I was able to set my AWS CLI credentials using the command
 ```
 aws configure
 ```
+
+
+### Logical Architecture
+
